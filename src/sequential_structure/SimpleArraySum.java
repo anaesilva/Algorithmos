@@ -1,3 +1,5 @@
+package sequential_structure;
+
 import java.util.*;
 
 //Deve retornar a soma dos elementos do array como um inteiro.

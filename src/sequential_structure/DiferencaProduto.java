@@ -1,3 +1,5 @@
+package sequential_structure;
+
 import java.util.Scanner;
 
 //Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
